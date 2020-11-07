@@ -1,0 +1,100 @@
+remove difficulty:Hard
+remove difficulty:Medium
+remove pos:18
+add pos:2 problem_id:676444, problem_name:kqpkgsjficxeqgvyyyvtnaamjrqjenuohebjw, difficulty:Medium
+add pos:18 problem_id:742210, problem_name:dgyjojtrejuybykkngd, difficulty:Easy
+sort problem_name decreasing
+add pos:10 problem_id:165424, problem_name:eulrwchmkhmci wpki, difficulty:Hard
+add pos:11 problem_id:155233, problem_name:khvkrodpvtudvjpjmglxob, difficulty:Medium
+sort problem_id increasing
+add pos:13 problem_id:159863, problem_name:jcqvkmvgsiloopivnqj ncl dpvacriwlxtwflories, difficulty:Easy
+add pos:10 problem_id:123822, problem_name:wewltoppltggveckifsjkdvqgjgcrsacngpjtmxt , difficulty:Easy
+remove difficulty:Easy
+add pos:34 problem_id:254096, problem_name:ebebjgljk fsovtbvkyaqrhhayjdoylpjfb, difficulty:Medium
+remove pos:1
+remove pos:9
+sort difficulty increasing
+add pos:27 problem_id:775367, problem_name:cmypqhrgcssagaovwlptampvhp mowcunrjaiwyyanoj, difficulty:Hard
+sort problem_id decreasing
+remove pos:13
+remove pos:3
+remove difficulty:Easy
+remove difficulty:Hard
+sort difficulty decreasing
+remove difficulty:Easy
+add pos:0 problem_id:739284, problem_name:cvfyxxjlwpobhpkeq nkojmdmsmns, difficulty:Medium
+remove difficulty:Medium
+remove difficulty:Easy
+sort problem_name decreasing
+sort problem_id increasing
+remove difficulty:Hard
+sort difficulty decreasing
+add pos:23 problem_id:509364, problem_name:td purqpkxvopyjadwaorxvin, difficulty:Medium
+sort difficulty decreasing
+add pos:22 problem_id:139623, problem_name:atvedayaqqfcomtkjqsfblwesjcbnlb, difficulty:Hard
+add pos:21 problem_id:208519, problem_name:consjoltucgfpbjcwljvdjoim, difficulty:Medium
+remove difficulty:Easy
+sort problem_id decreasing
+remove difficulty:Easy
+sort problem_id decreasing
+add pos:19 problem_id:608642, problem_name:lmbxhgkouljqvabwcrie, difficulty:Hard
+remove difficulty:Medium
+remove difficulty:Hard
+sort problem_id decreasing
+remove difficulty:Medium
+remove pos:13
+sort difficulty increasing
+sort problem_id decreasing
+add pos:13 problem_id:994526, problem_name:mmfjywwvyjymw xntglqdmabu, difficulty:Medium
+remove difficulty:Easy
+add pos:27 problem_id:842868, problem_name:fjqadknakxnnr xprbpmkbif kcm r lmtdh, difficulty:Easy
+remove difficulty:Medium
+remove pos:19
+sort difficulty increasing
+sort problem_name increasing
+remove difficulty:Easy
+sort problem_id decreasing
+remove difficulty:Hard
+add pos:29 problem_id:380770, problem_name:mlxwceqwcpaakxk, difficulty:Medium
+sort difficulty decreasing
+add pos:26 problem_id:375352, problem_name:jhbqmokitjvsewltsjaevyihtvgrjydmtjwbdflj, difficulty:Medium
+sort difficulty increasing
+add pos:29 problem_id:124146, problem_name:hqvveyrinsgpmjgutpurpmoaw, difficulty:Easy
+remove difficulty:Easy
+sort problem_id decreasing
+remove difficulty:Hard
+sort difficulty decreasing
+sort problem_id decreasing
+sort problem_name increasing
+add pos:27 problem_id:672050, problem_name:pxlvubjutjjivxyqbme, difficulty:Medium
+sort difficulty decreasing
+add pos:30 problem_id:130542, problem_name:kptftdcwvhkiyehmwcgfc, difficulty:Medium
+remove difficulty:Medium
+add pos:8 problem_id:855143, problem_name:pbrrvjsmtqirhutxsfixfmfpdttodwrw ut, difficulty:Medium
+remove difficulty:Medium
+sort difficulty decreasing
+add pos:3 problem_id:299776, problem_name:  jffjsysqthbdesdkrgmmoweyuaowtojanqra, difficulty:Easy
+remove pos:19
+sort problem_name increasing
+remove pos:11
+sort difficulty decreasing
+sort difficulty increasing
+add pos:9 problem_id:915322, problem_name:wveyewwymfghyjxitajatatdgaycjac, difficulty:Hard
+add pos:27 problem_id:476429, problem_name:nwodjmkmginlchbcxorxofntuoqbtrnjgeyvmrso, difficulty:Hard
+remove pos:6
+remove pos:10
+remove difficulty:Hard
+sort problem_id increasing
+add pos:20 problem_id:455620, problem_name:icovoqudhdhvruqgcwjavwcvcjpsyrijyjgwacwdtdf, difficulty:Hard
+remove pos:15
+sort problem_name increasing
+add pos:40 problem_id:730744, problem_name:n xjtmkjbjlciptxmutancfo ojl, difficulty:Medium
+add pos:20 problem_id:753759, problem_name:eeo teiukkmgyimtjywrba, difficulty:Medium
+sort problem_name decreasing
+add pos:6 problem_id:343782, problem_name:qhekf jeejlmimnuffldmqxqm, difficulty:Medium
+sort difficulty decreasing
+sort difficulty increasing
+sort problem_name decreasing
+remove difficulty:Medium
+add pos:4 problem_id:691145, problem_name:jaiqufwb brmsdpseha, difficulty:Hard
+add pos:23 problem_id:692059, problem_name:jxdyyvvurxchyrjanvurnnexrxnlv lddajctafycq, difficulty:Hard
